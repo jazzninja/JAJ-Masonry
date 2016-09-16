@@ -27,13 +27,6 @@ gulp.task('sass', function(){
 gulp.task('useref', function(){
   return gulp.src('*.html')
     .pipe(useref())
-    .pipe(plumber())
-    .pipe(gulp.dest(''))
-});
-
-gulp.task('useref', function(){
-  return gulp.src('*.html')
-    .pipe(useref())
     // Minifies only if it's a JavaScript file
     .pipe(gulpIf('*.js', uglify()))
     // Minifies only if it's a CSS file
@@ -88,7 +81,7 @@ gulp.task('browserSync', function() {
 
 gulp.task('build', function (callback) {
   runSequence( 
-    ['sass', 'uncss', 'useref'],
+    ['sass', 'uncss', 'useref','csso', 'development'],
     callback
   )
   console.log('What’s the point of all this cleaning? Are we so vain?');
@@ -96,7 +89,7 @@ gulp.task('build', function (callback) {
 
 gulp.task('default', function (callback) {
   runSequence(
-  	['sass', 'uncss', 'csso', 'development', 'browserSync', 'watch'],
+  	['sass', 'browserSync', 'watch'],
     callback
   )
   console.log('Marge, would you please tell Bart that I would just like to drink a glass of syrup like I do every morning?');

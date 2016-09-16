@@ -20,8 +20,10 @@ footer {
 header {
   position: relative;
   height: auto;
-  width: 80%;
+  width: 78%;
   margin: 0 auto;
+  margin-right: 11%;
+  margin-left: 11%;
 }
 
 ul {
@@ -72,12 +74,12 @@ h4 {
 
 #nav-content button p {
   margin: 0 auto;
-  font-size: 10pt;
+  font-size: 12pt;
   color: #d6cdc6;
 }
 
 .main-info {
-  width: 78%;
+  width: 76.5%;
   display: block;
   margin: 0 auto;
   height: auto;
@@ -128,6 +130,7 @@ h4 {
   font-size: 2.5em;
   color: #d6cdc6;
   margin-top: .5em;
+  margin-bottom: 0px;
 }
 
 .services-sourcing-container h1 {
@@ -1122,16 +1125,19 @@ div.portfolio-main {
 
 div.portfolio-project-list {
   padding: 0;
-  margin: 0;
+  margin: 0px;
+  margin-top: 0.5vw;
 }
 
 div.portfolio-project-list ul {
-  padding: 0;
+  padding: 0px;
+  margin: 0px;
 }
 
 div.portfolio-project-list ul li button {
   color: #d6cdc6;
   font-size: 1.55vw;
+  line-height: 1.1em;
 }
 
 .contact-fader {
@@ -1314,9 +1320,8 @@ div.contact-main div.contact-info-container {
 .dot-active {
 	background-color: #766557;
 }
-/*test*//*test2*/
 
-@media screen and (min-width: 1px) and (max-width: 716px){
+@media screen and (min-width: 1px) and (max-width: 816px){
 
   nav ul {
     float: none;
@@ -1352,8 +1357,9 @@ div.contact-main div.contact-info-container {
     text-align: center;
     display: flex;
     margin: 0 auto;
+    margin-top: 0.5em;
     margin-bottom: 1em;
-    width: 100%; 
+    width: 110%; 
   }
 
   #alt-nav-content {
@@ -1390,7 +1396,7 @@ div.contact-main div.contact-info-container {
 
   #alt-nav-content button p {
     margin: 0 auto;
-    font-size: 10pt;
+    font-size: 12pt;
   }
 
   .main-info ul {
@@ -1587,7 +1593,7 @@ div.contact-main div.contact-info-container {
   }
 
   div.portfolio-project-list ul li button {
-  	font-size: 3vw;
+  	font-size: 2.9vw;
   }
 }
 
@@ -1597,7 +1603,6 @@ div.contact-main div.contact-info-container {
 
   div.portfolio-project-list {
     position: relative;
-    top: -20px;
   }
 
   div.portfolio-project-list {
@@ -1622,7 +1627,7 @@ div.contact-main div.contact-info-container {
   }
 
   .main-info ul li {
-    width: 100%;
+    width: 96%;
     height: auto;
     margin: 0 auto;
     margin-top: 1em;
