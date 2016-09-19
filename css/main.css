@@ -1144,16 +1144,15 @@ div.contact-main div.contact-info-container {
     margin: 0 auto;
     margin-right: 18%; }
   #alt-nav {
-    text-align: center;
+    float: left;
     display: flex;
     margin: 0 auto;
-    margin-top: 0.5em;
-    margin-bottom: 1em;
-    width: 110%; }
+    padding-bottom: 1em;
+    padding-left: 15%; }
   #alt-nav-content {
     margin: 0 auto; }
   #alt-nav-content ul {
-    text-align: center; }
+    padding: 0px; }
   #alt-nav-content ul li {
     display: inline-block; }
   #alt-nav-content ul li .dropdown-content {
@@ -1172,7 +1171,7 @@ div.contact-main div.contact-info-container {
     margin-left: -4px; }
   #alt-nav-content button p {
     margin: 0 auto;
-    font-size: 12pt; }
+    font-size: 2vw; }
   .main-info ul {
     flex-flow: column;
     margin: 0 auto; }
@@ -1188,7 +1187,7 @@ div.contact-main div.contact-info-container {
   .fader {
     height: 40vw; }
   .fader div.image img {
-    margin-left: -9em; }
+    margin-left: -4.25em; }
   .homepage-container.display-flex {
     flex-direction: column-reverse;
     align-items: center;
@@ -1305,7 +1304,9 @@ div.contact-main div.contact-info-container {
   div.portfolio-project-list {
     padding-top: 3em; }
   div.portfolio-project-list ul li button {
-    font-size: 2.9vw; } }
+    font-size: 2.9vw; }
+  div.image div.caption {
+    font-size: 0.75em; } }
 
 @media screen and (max-width: 900px) {
   div.portfolio-project-list {
@@ -1338,9 +1339,18 @@ div.contact-main div.contact-info-container {
   .contact-container.display-flex div.info-page {
     height: 70vw; } }
 
+@media screen and (max-width: 550px) {
+  #alt-nav {
+    padding-left: 12%; } }
+
+@media screen and (min-width: 299px) and (max-width: 520px) {
+  #alt-nav {
+    padding-left: 9%; } }
+
 @media screen and (max-width: 511px) {
-  nav#alt-nav div#alt-nav-content ul li button p {
-    font-size: 8pt; } }
+  /*nav#alt-nav div#alt-nav-content ul li button p {
+    font-size: 8pt;
+  }*/ }
 
 @media screen and (max-width: 466px) {
   .footer-info p {
@@ -1349,13 +1359,21 @@ div.contact-main div.contact-info-container {
   .contact-container.display-flex div.info-page {
     height: 75vw; } }
 
-@media screen and (max-width: 429px) {
-  nav#alt-nav div#alt-nav-content ul li button p {
-    font-size: 7pt; }
+@media screen and (max-width: 420px) {
   #alt-nav-content ul li div.dropdown-content {
-    font-size: .5em;
-    bottom: -2.5em;
+    font-size: 0.65em;
+    bottom: -4em;
     left: 7em; } }
+
+@media screen and (max-width: 350px) {
+  nav#alt-nav div#alt-nav-content ul li button p {
+    font-size: 5pt; } }
+
+@media screen and (max-width: 300px) {
+  #alt-nav {
+    padding-left: 10%; }
+  nav#alt-nav div#alt-nav-content ul li button p {
+    font-size: 5pt; } }
 
 html {
   font-family: garamond;
