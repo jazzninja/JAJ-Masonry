@@ -601,63 +601,54 @@ $(document).ready(function(){
     	  	$(".dots.one").toggleClass('dot-active');
     	  	$(".dots.two, .three, .four, .five, .six, .seven, .eight, .nine").removeClass('dot-active');
         }
-        refresh();
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.two").on("click", function(){
     	if($(this).hasClass("two")) {
     	  	$(".dots.two").toggleClass('dot-active');
     	  	$(".dots.one, .three, .four, .five, .six, .seven, .eight, .nine").removeClass('dot-active');
         }
-        refresh();
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.three").on("click", function(){
     	if($(this).hasClass("three")) {
     	  	$(".dots.three").toggleClass('dot-active');
     	  	$(".dots.one, .two, .four, .five, .six, .seven, .eight, .nine").removeClass('dot-active');
         }
-        refresh();
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.four").on("click", function(){
     	if($(this).hasClass("four")) {
     	  	$(".dots.four").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .five, .six, .seven, .eight, .nine").removeClass('dot-active');
         }
-        refresh();
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.five").on("click", function(){
     	if($(this).hasClass("five")) {
     	  	$(".dots.five").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .six, .seven, .eight, .nine").removeClass('dot-active');
         }
-        refresh();
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.six").on("click", function(){
     	if($(this).hasClass("six")) {
     	  	$(".dots.six").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .five, .seven, .eight, .nine").removeClass('dot-active');
         }
-        refresh();
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.seven").on("click", function(){
     	if($(this).hasClass("seven")) {
     	  	$(".dots.seven").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .five, .six, .eight, .nine").removeClass('dot-active');
         }
-        refresh();
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.eight").on("click", function(){
     	if($(this).hasClass("eight")) {
     	  	$(".dots.eight").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .five, .six, .seven, .nine").removeClass('dot-active');
         }
-        refresh();
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.nine").on("click", function(){
     	if($(this).hasClass("nine")) {
     	  	$(".dots.nine").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .five, .six, .seven, .eight").removeClass('dot-active');
         }
-        refresh();
     });
 
 
