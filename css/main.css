@@ -509,7 +509,7 @@ div.image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 15%;
   width: 99.5%;
   bottom: 0;
@@ -523,7 +523,7 @@ div.about-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -537,7 +537,7 @@ div.highst-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -551,7 +551,7 @@ div.backbayhotel-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -565,7 +565,7 @@ div.batterywharf-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -579,7 +579,7 @@ div.centralarteryairintake-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -593,7 +593,7 @@ div.foxwoods-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -607,7 +607,7 @@ div.harvardbusinessschool-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -621,7 +621,7 @@ div.harvardlawschool-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -635,7 +635,7 @@ div.marlowehotel-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -649,7 +649,7 @@ div.mbtaashmontstation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -663,7 +663,7 @@ div.southstation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -677,7 +677,7 @@ div.summerstseawall-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -691,7 +691,7 @@ div.tfgreenairport-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -705,7 +705,7 @@ div.wwiimemorial-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -719,7 +719,7 @@ div.contact-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -733,7 +733,7 @@ div.sourcing-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -747,7 +747,7 @@ div.installation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -761,7 +761,7 @@ div.consulting-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 10%;
   width: 98.5%;
   bottom: 0;
@@ -1144,11 +1144,13 @@ div.contact-main div.contact-info-container {
     margin: 0 auto;
     margin-right: 18%; }
   #alt-nav {
+    width: 125%;
     float: left;
     display: flex;
     margin: 0 auto;
     padding-bottom: 1em;
-    padding-left: 15%; }
+    margin-left: -11%;
+    margin-top: 1em; }
   #alt-nav-content {
     margin: 0 auto; }
   #alt-nav-content ul {
@@ -1158,20 +1160,20 @@ div.contact-main div.contact-info-container {
   #alt-nav-content ul li .dropdown-content {
     display: none;
     position: absolute;
-    bottom: -1.5em;
+    bottom: -2.5em;
     margin: 0 auto;
-    left: 10em;
+    left: 21vw;
     height: .5em; }
   #alt-nav-content ul li:hover .dropdown-content {
     display: inline-block; }
   #alt-nav-content ul li .dropdown-content button {
+    font-size: 7pt;
     padding-top: 0px;
     color: #aa917d;
-    padding-right: 0px;
-    margin-left: -4px; }
+    padding-right: 0px; }
   #alt-nav-content button p {
     margin: 0 auto;
-    font-size: 2vw; }
+    font-size: 9pt; }
   .main-info ul {
     flex-flow: column;
     margin: 0 auto; }
@@ -1339,14 +1341,6 @@ div.contact-main div.contact-info-container {
   .contact-container.display-flex div.info-page {
     height: 70vw; } }
 
-@media screen and (max-width: 550px) {
-  #alt-nav {
-    padding-left: 12%; } }
-
-@media screen and (min-width: 299px) and (max-width: 520px) {
-  #alt-nav {
-    padding-left: 9%; } }
-
 @media screen and (max-width: 511px) {
   /*nav#alt-nav div#alt-nav-content ul li button p {
     font-size: 8pt;
@@ -1355,25 +1349,24 @@ div.contact-main div.contact-info-container {
 @media screen and (max-width: 466px) {
   .footer-info p {
     text-align: center;
-    font-size: 10pt; }
+    font-size: 9pt; }
   .contact-container.display-flex div.info-page {
-    height: 75vw; } }
+    height: 75vw; }
+  #alt-nav-content ul li .dropdown-content {
+    left: 17vw; } }
 
 @media screen and (max-width: 420px) {
   #alt-nav-content ul li div.dropdown-content {
-    font-size: 0.65em;
-    bottom: -4em;
-    left: 7em; } }
+    width: 100%;
+    font-size: 4pt;
+    bottom: -7.5em;
+    left: 11em; } }
 
 @media screen and (max-width: 350px) {
   nav#alt-nav div#alt-nav-content ul li button p {
-    font-size: 5pt; } }
-
-@media screen and (max-width: 300px) {
-  #alt-nav {
-    padding-left: 10%; }
-  nav#alt-nav div#alt-nav-content ul li button p {
-    font-size: 5pt; } }
+    font-size: 7pt; }
+  #alt-nav-content ul li div.dropdown-content {
+    left: 8em; } }
 
 html {
   font-family: garamond;
