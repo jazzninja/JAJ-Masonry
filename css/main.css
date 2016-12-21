@@ -109,8 +109,7 @@ h4 {
   font-weight: 100;
   font-size: 2.5em;
   color: #d6cdc6;
-  margin-top: .5em;
-  margin-bottom: 0px; }
+  margin-bottom: 15px; }
 
 .services-sourcing-container h1 {
   font-family: "Futura-CondensedMedium", sans-serif;
@@ -149,8 +148,7 @@ h4 {
   font-family: "Futura-CondensedMedium", sans-serif;
   font-weight: 100;
   font-size: 2.5em;
-  color: #d6cdc6;
-  height: 1.5em; }
+  color: #d6cdc6; }
 
 .about-container p {
   font-family: arial;
@@ -1041,15 +1039,7 @@ div.portfolio-project-list ul li button {
   z-index: 5; }
 
 .contact-info {
-  height: auto;
-  padding: 0;
-  display: block;
-  margin-top: .5em;
-  margin-bottom: .5em;
-  margin-right: 4.5em;
-  justify-content: flex-start;
-  font-size: .6em;
-  width: 150%; }
+  padding-left: 0px; }
 
 .contact-main {
   flex-direction: column;
@@ -1064,33 +1054,17 @@ div.portfolio-project-list ul li button {
   color: #d6cdc6;
   line-height: 1.3em; }
 
-.contact-main h1 {
-  margin-bottom: .025em;
-  margin-top: .5em; }
-
 .info-page div .contact-list {
-  margin-right: 1em;
-  width: 50%;
-  height: 100%;
-  left: 0px;
-  top: 40px;
-  font-size: 1.5vw;
-  padding: 5px; }
+  margin-left: 0px; }
 
 .contact-info-container {
-  width: auto;
-  display: flex;
-  flex-direction: row;
-  position: absolute; }
+  margin-left: 1em; }
 
 div.contact-main div.contact-info-container {
   margin: 0px; }
 
 .contact-list-info {
-  display: flex;
-  position: relative;
-  top: 4em;
-  left: -7em; }
+  margin-left: 0px; }
 
 .footer-logo {
   width: 40%;
@@ -1121,6 +1095,9 @@ div.contact-main div.contact-info-container {
 
 .dot-active {
   background-color: #766557; }
+
+.contact-info-container .contact-list-info {
+  margin-left: 0px; }
 
 @media screen and (min-width: 1px) and (max-width: 816px) {
   nav ul {
@@ -1173,7 +1150,7 @@ div.contact-main div.contact-info-container {
     padding-right: 0px; }
   #alt-nav-content button p {
     margin: 0 auto;
-    font-size: 8pt; }
+    font-size: 9pt; }
   .main-info ul {
     flex-flow: column;
     margin: 0 auto; }
@@ -1202,11 +1179,11 @@ div.contact-main div.contact-info-container {
     margin-bottom: 1.5em;
     height: 50%;
     width: 80%; }
-  .contact-list-info {
-    position: absolute;
-    left: 1.5em; }
   .contact-list-info div.contact-list {
+    margin-left: 0px;
     font-size: 2.75vw; }
+  .contact-info-container {
+    margin: 0 auto; }
   .about-container.display-flex {
     flex-flow: column-reverse;
     justify-content: flex-end;
@@ -1272,12 +1249,12 @@ div.contact-main div.contact-info-container {
     display: block;
     height: auto;
     z-index: 7;
-    width: 80%;
+    width: 78%;
     margin-top: 1em;
     text-align: center; }
   .contact-container.display-flex div.info-page {
     display: flex;
-    height: 65vw;
+    height: 40vw;
     z-index: 7;
     width: 80%;
     margin-top: 1em; }
@@ -1302,13 +1279,19 @@ div.contact-main div.contact-info-container {
     height: 60vw;
     width: 80%; }
   div.portfolio-project-list {
-    margin: 0 auto; }
+    margin-left: 0 auto; }
   div.portfolio-project-list {
-    padding-top: 3em; }
+    padding-top: 2em; }
   div.portfolio-project-list ul li button {
     font-size: 2.9vw; }
   div.image div.caption {
-    font-size: 0.75em; } }
+    font-size: 0.75em; }
+  div.contact-info-container h1 {
+    text-align: left; }
+  .contact-container .info-page div {
+    display: initial; }
+  .info-page .portfolio-main h1 {
+    margin-top: 1em; } }
 
 @media screen and (max-width: 900px) {
   div.portfolio-project-list {
@@ -1339,7 +1322,7 @@ div.contact-main div.contact-info-container {
 
 @media screen and (max-width: 530px) {
   .contact-container.display-flex div.info-page {
-    height: 70vw; } }
+    height: 50vw; } }
 
 @media screen and (max-width: 511px) {
   /*nav#alt-nav div#alt-nav-content ul li button p {
@@ -1350,8 +1333,6 @@ div.contact-main div.contact-info-container {
   .footer-info p {
     text-align: center;
     font-size: 9pt; }
-  .contact-container.display-flex div.info-page {
-    height: 75vw; }
   #alt-nav-content ul li .dropdown-content {
     left: 17vw; } }
 
