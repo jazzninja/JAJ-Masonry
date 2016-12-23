@@ -507,12 +507,12 @@ div.image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
   height: 5%;
   width: 99.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.about-image div.caption {
@@ -526,7 +526,7 @@ div.about-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.highst-image div.caption {
@@ -540,7 +540,7 @@ div.highst-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.backbayhotel-image div.caption {
@@ -554,7 +554,7 @@ div.backbayhotel-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.batterywharf-image div.caption {
@@ -568,7 +568,7 @@ div.batterywharf-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.centralarteryairintake-image div.caption {
@@ -582,7 +582,7 @@ div.centralarteryairintake-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.foxwoods-image div.caption {
@@ -596,7 +596,7 @@ div.foxwoods-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.harvardbusinessschool-image div.caption {
@@ -610,7 +610,7 @@ div.harvardbusinessschool-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.harvardlawschool-image div.caption {
@@ -624,7 +624,7 @@ div.harvardlawschool-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.marlowehotel-image div.caption {
@@ -638,7 +638,7 @@ div.marlowehotel-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.mbtaashmontstation-image div.caption {
@@ -652,7 +652,7 @@ div.mbtaashmontstation-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.southstation-image div.caption {
@@ -666,7 +666,7 @@ div.southstation-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.summerstseawall-image div.caption {
@@ -680,7 +680,7 @@ div.summerstseawall-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.tfgreenairport-image div.caption {
@@ -694,7 +694,7 @@ div.tfgreenairport-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.wwiimemorial-image div.caption {
@@ -708,7 +708,7 @@ div.wwiimemorial-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em; }
 
 div.contact-image div.caption {
@@ -723,7 +723,7 @@ div.contact-image div.caption {
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
-  font-size: 10pt; }
+  font-size: 1vw; }
 
 div.sourcing-image div.caption {
   display: visible;
@@ -737,7 +737,7 @@ div.sourcing-image div.caption {
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
-  font-size: 10pt; }
+  font-size: 1vw; }
 
 div.installation-image div.caption {
   display: visible;
@@ -751,7 +751,7 @@ div.installation-image div.caption {
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
-  font-size: 10pt; }
+  font-size: 1vw; }
 
 div.consulting-image div.caption {
   display: visible;
@@ -765,7 +765,7 @@ div.consulting-image div.caption {
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
-  font-size: 10pt; }
+  font-size: 1vw; }
 
 .dots {
   float: right;
@@ -1099,6 +1099,78 @@ div.contact-main div.contact-info-container {
 .contact-info-container .contact-list-info {
   margin-left: 0px; }
 
+button.home-button {
+  border-right: 2px solid #d6cdc6;
+  margin-right: 5px; }
+
+.about-button {
+  border-right: 2px solid #d6cdc6;
+  margin-right: 5px; }
+
+.services {
+  border-right: 2px solid #d6cdc6;
+  margin-right: 5px; }
+
+.portfolio-button {
+  border-right: 2px solid #d6cdc6;
+  margin-right: 5px; }
+
+#nav-content div.dropdown-content button.sourcing-button p {
+  border-right: 1.5px solid #aa917d;
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 8pt;
+  color: #aa917d; }
+
+#nav-content div.dropdown-content button.consulting-button p {
+  border-right: 1.5px solid #aa917d;
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 8pt;
+  color: #aa917d; }
+
+#nav-content div.dropdown-content button.installation-button p {
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 8pt;
+  color: #aa917d; }
+
+button.alt-home-button {
+  border-right: 2px solid #d6cdc6;
+  margin-right: 5px; }
+
+.alt-about-button {
+  border-right: 2px solid #d6cdc6;
+  margin-right: 5px; }
+
+.services {
+  border-right: 2px solid #d6cdc6;
+  margin-right: 5px; }
+
+.alt-portfolio-button {
+  border-right: 2px solid #d6cdc6;
+  margin-right: 5px; }
+
+#alt-nav-content div.dropdown-content button.alt-sourcing-button p {
+  border-right: 1.5px solid #aa917d;
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 8pt;
+  color: #aa917d; }
+
+#alt-nav-content div.dropdown-content button.alt-consulting-button p {
+  border-right: 1.5px solid #aa917d;
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 8pt;
+  color: #aa917d; }
+
+#alt-nav-content div.dropdown-content button.alt-installation-button p {
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 8pt;
+  color: #aa917d; }
+
 @media screen and (min-width: 1px) and (max-width: 816px) {
   nav ul {
     float: none; }
@@ -1232,7 +1304,7 @@ div.contact-main div.contact-info-container {
     font-family: arial;
     font-weight: 100;
     font-size: .95em;
-    line-height: 1.4em; }
+    line-height: 0.4em; }
   .services-container p {
     font-family: arial;
     font-weight: 100;
@@ -1285,7 +1357,7 @@ div.contact-main div.contact-info-container {
   div.portfolio-project-list ul li button {
     font-size: 2.9vw; }
   div.image div.caption {
-    font-size: 0.75em; }
+    font-size: 1.25vw; }
   div.contact-info-container h1 {
     text-align: left; }
   .contact-container .info-page div {

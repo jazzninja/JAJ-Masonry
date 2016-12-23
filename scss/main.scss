@@ -255,7 +255,7 @@ button:focus {
 }
 
 .contact-button:focus {
-  text-decoration: underline;
+  text-decoration: underline;   
   -moz-text-decoration-color: #d6cdc6;
   text-decoration-color: #d6cdc6;
 
@@ -625,12 +625,12 @@ div.image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(0,0,0,0.3);
   height: 5%;
   width: 99.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -645,7 +645,7 @@ div.about-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -660,7 +660,7 @@ div.highst-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -675,7 +675,7 @@ div.backbayhotel-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -690,7 +690,7 @@ div.batterywharf-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -705,7 +705,7 @@ div.centralarteryairintake-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -720,7 +720,7 @@ div.foxwoods-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -735,7 +735,7 @@ div.harvardbusinessschool-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -750,7 +750,7 @@ div.harvardlawschool-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -765,7 +765,7 @@ div.marlowehotel-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -780,7 +780,7 @@ div.mbtaashmontstation-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -795,7 +795,7 @@ div.southstation-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -810,7 +810,7 @@ div.summerstseawall-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -825,7 +825,7 @@ div.tfgreenairport-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -840,7 +840,7 @@ div.wwiimemorial-image div.caption {
   width: 98.5%;
   bottom: 0;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
   padding: 0.5em;
 }
 
@@ -857,7 +857,7 @@ div.contact-image div.caption {
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
 }
 
 div.sourcing-image div.caption {
@@ -872,7 +872,7 @@ div.sourcing-image div.caption {
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
 }
 
 div.installation-image div.caption {
@@ -887,7 +887,7 @@ div.installation-image div.caption {
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
 }
 
 div.consulting-image div.caption {
@@ -902,7 +902,7 @@ div.consulting-image div.caption {
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
-  font-size: 10pt;
+  font-size: 1vw;
 }
 
 .dots {
@@ -1329,6 +1329,92 @@ div.contact-main div.contact-info-container {
     margin-left: 0px;
 }
 
+button.home-button {
+    border-right: 2px solid #d6cdc6;
+    margin-right: 5px;
+}
+
+.about-button {
+    border-right: 2px solid #d6cdc6;
+    margin-right: 5px;
+}
+
+.services {
+    border-right: 2px solid #d6cdc6;
+    margin-right: 5px;
+}
+
+.portfolio-button {
+    border-right: 2px solid #d6cdc6;
+    margin-right: 5px;
+}
+
+#nav-content div.dropdown-content button.sourcing-button p {
+    border-right: 1.5px solid #aa917d;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 8pt;
+    color: #aa917d;
+}
+
+#nav-content div.dropdown-content button.consulting-button p {
+    border-right: 1.5px solid #aa917d;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 8pt;
+    color: #aa917d;
+}
+
+#nav-content div.dropdown-content button.installation-button p {
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 8pt;
+    color: #aa917d;
+}
+
+button.alt-home-button {
+    border-right: 2px solid #d6cdc6;
+    margin-right: 5px;
+}
+
+.alt-about-button {
+    border-right: 2px solid #d6cdc6;
+    margin-right: 5px;
+}
+
+.services {
+    border-right: 2px solid #d6cdc6;
+    margin-right: 5px;
+}
+
+.alt-portfolio-button {
+    border-right: 2px solid #d6cdc6;
+    margin-right: 5px;
+}
+
+#alt-nav-content div.dropdown-content button.alt-sourcing-button p {
+    border-right: 1.5px solid #aa917d;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 8pt;
+    color: #aa917d;
+}
+
+#alt-nav-content div.dropdown-content button.alt-consulting-button p {
+    border-right: 1.5px solid #aa917d;
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 8pt;
+    color: #aa917d;
+}
+
+#alt-nav-content div.dropdown-content button.alt-installation-button p {
+    padding-right: 5px;
+    padding-left: 5px;
+    font-size: 8pt;
+    color: #aa917d;
+}
+
 
 @media screen and (min-width: 1px) and (max-width: 816px){
 
@@ -1526,7 +1612,7 @@ div.contact-main div.contact-info-container {
     font-family: arial;
     font-weight: 100;
     font-size: .95em;
-    line-height: 1.4em;
+    line-height: 0.4em;
   }
 
   .services-container p {
@@ -1607,7 +1693,7 @@ div.contact-main div.contact-info-container {
   }
 
   div.image div.caption {
-  	font-size: 0.75em;
+  	font-size: 1.25vw;
   }
   div.contact-info-container h1 {
     text-align: left;
@@ -1620,10 +1706,6 @@ div.contact-main div.contact-info-container {
   }
 
 }
-
-
-
-
 
 @media screen and (max-width: 900px) {
 
