@@ -602,8 +602,10 @@ $(document).ready(function(){
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-1").siblings(".img-2, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
     	  	//$(".img-1.caption").css("display", "flex");
     	  	$(".img-1, .cp-1").css("opacity", "1");
+            $("caption.cp-2, .cp-3, .cp-4, .cp-5").css("opacity", "0");
         }
     });
+
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.two").on("click", function(){
     	if($(this).hasClass("two")) {
     	  	$(".dots.two").toggleClass('dot-active');
@@ -611,9 +613,10 @@ $(document).ready(function(){
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-2").siblings(".img-1, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
     	  	//$(".img-2.caption").css("display", "flex");
     	  	$(".img-2, .cp-2").css("opacity", "1");
-
+            $("caption.cp-1, .cp-3, .cp-4, .cp-5").css("opacity", "0");
         }
     });
+
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.three").on("click", function(){
     	if($(this).hasClass("three")) {
     	  	$(".dots.three").toggleClass('dot-active');
@@ -621,9 +624,10 @@ $(document).ready(function(){
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-3").siblings(".img-1, .img-2, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
     	  	//$(".img-3.caption").css("display", "flex");
     	  	$(".img-3, .cp-3").css("opacity", "1");
-
+            $("caption.cp-1, .cp-2, .cp-4, .cp-5").css("opacity", "0");
         }
     });
+
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.four").on("click", function(){
     	if($(this).hasClass("four")) {
     	  	$(".dots.four").toggleClass('dot-active');
@@ -631,9 +635,10 @@ $(document).ready(function(){
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-4").siblings(".img-1, .img-2, .img-3, .img-5, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
     	  	//$(".img-4.caption").css("display", "flex");
     	  	$(".img-4, .cp-4").css("opacity", "1");
-
+            $("caption.cp-1, .cp-2, .cp-3, .cp-5").css("opacity", "0");
         }
     });
+
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.five").on("click", function(){
     	if($(this).hasClass("five")) {
     	  	$(".dots.five").toggleClass('dot-active');
@@ -641,8 +646,10 @@ $(document).ready(function(){
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-5").siblings(".img-1, .img-2, .img-3, .img-4, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
     	  	//$(".img-5.caption").css("display", "flex");
     	  	$(".img-5, .cp-5").css("opacity", "1");
+            $("caption.cp-1, .cp-2, .cp-3, .cp-4").css("opacity", "0");
         }
     });
+
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.six").on("click", function(){
     	if($(this).hasClass("six")) {
     	  	$(".dots.six").toggleClass('dot-active');

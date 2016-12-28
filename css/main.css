@@ -1171,6 +1171,9 @@ button.alt-home-button {
   font-size: 8pt;
   color: #aa917d; }
 
+.caption-hide {
+  display: none; }
+
 @media screen and (min-width: 1px) and (max-width: 816px) {
   nav ul {
     float: none; }
