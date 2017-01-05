@@ -600,9 +600,8 @@ $(document).ready(function(){
     	  	$(".dots.one").toggleClass('dot-active');
     	  	$(".dots.two, .three, .four, .five, .six, .seven, .eight, .nine").removeClass('dot-active');
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-1").siblings(".img-2, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
-    	  	//$(".img-1.caption").css("display", "flex");
     	  	$(".img-1, .cp-1").css("opacity", "1");
-            $("caption.cp-2, .cp-3, .cp-4, .cp-5").css("opacity", "0");
+            $("caption").css("opacity", "0");
         }
     });
 
@@ -611,9 +610,8 @@ $(document).ready(function(){
     	  	$(".dots.two").toggleClass('dot-active');
     	  	$(".dots.one, .three, .four, .five, .six, .seven, .eight, .nine").removeClass('dot-active');
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-2").siblings(".img-1, .img-3, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
-    	  	//$(".img-2.caption").css("display", "flex");
     	  	$(".img-2, .cp-2").css("opacity", "1");
-            $("caption.cp-1, .cp-3, .cp-4, .cp-5").css("opacity", "0");
+            $("caption").css("opacity", "0");
         }
     });
 
@@ -622,9 +620,8 @@ $(document).ready(function(){
     	  	$(".dots.three").toggleClass('dot-active');
     	  	$(".dots.one, .two, .four, .five, .six, .seven, .eight, .nine").removeClass('dot-active');
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-3").siblings(".img-1, .img-2, .img-4, .img-5, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
-    	  	//$(".img-3.caption").css("display", "flex");
     	  	$(".img-3, .cp-3").css("opacity", "1");
-            $("caption.cp-1, .cp-2, .cp-4, .cp-5").css("opacity", "0");
+            $("caption").css("opacity", "0");
         }
     });
 
@@ -633,9 +630,8 @@ $(document).ready(function(){
     	  	$(".dots.four").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .five, .six, .seven, .eight, .nine").removeClass('dot-active');
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-4").siblings(".img-1, .img-2, .img-3, .img-5, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
-    	  	//$(".img-4.caption").css("display", "flex");
     	  	$(".img-4, .cp-4").css("opacity", "1");
-            $("caption.cp-1, .cp-2, .cp-3, .cp-5").css("opacity", "0");
+            $("caption").css("opacity", "0");
         }
     });
 
@@ -644,9 +640,8 @@ $(document).ready(function(){
     	  	$(".dots.five").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .six, .seven, .eight, .nine").removeClass('dot-active');
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-5").siblings(".img-1, .img-2, .img-3, .img-4, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
-    	  	//$(".img-5.caption").css("display", "flex");
     	  	$(".img-5, .cp-5").css("opacity", "1");
-            $("caption.cp-1, .cp-2, .cp-3, .cp-4").css("opacity", "0");
+            $("caption").css("opacity", "0");
         }
     });
 
@@ -655,9 +650,8 @@ $(document).ready(function(){
     	  	$(".dots.six").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .five, .seven, .eight, .nine").removeClass('dot-active');
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-6").siblings(".img-1, .img-2, .img-3, .img-4, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
-    	  	//$(".img-6.caption").css("display", "flex");
-    	  	$(".img-1.caption, .img-2.caption, .img-3.caption, .img-4.caption, .img-5.caption, .img-7.caption, .img-8.caption, .img-9.caption").css("opacity", "0");
-    	  	$(".img-6, .caption").css("opacity", "1");
+            $(".img-6, .cp-6").css("opacity", "1");
+            $("caption").css("opacity", "0");
         }
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.seven").on("click", function(){
@@ -665,9 +659,8 @@ $(document).ready(function(){
     	  	$(".dots.seven").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .five, .six, .eight, .nine").removeClass('dot-active');
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-7").siblings(".img-1, .img-2, .img-3, .img-4, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
-    	  	//$(".img-7.caption").css("display", "flex");
-    	  	$(".img-1.caption, .img-2.caption, .img-3.caption, .img-4.caption, .img-5.caption, .img-6.caption, .img-8.caption, .img-9.caption").css("opacity", "0");
-    	  	$(".img-7, .caption").css("opacity", "1");
+            $(".img-7, .cp-7").css("opacity", "1");
+            $("caption").css("opacity", "0");
         }
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.eight").on("click", function(){
@@ -675,9 +668,8 @@ $(document).ready(function(){
     	  	$(".dots.eight").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .five, .six, .seven, .nine").removeClass('dot-active');
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-8").siblings(".img-1, .img-2, .img-3, .img-4, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
-    	  	//$(".img-8.caption").css("display", "flex");
-    	  	$(".img-1.caption, .img-2.caption, .img-3.caption, .img-4.caption, .img-5.caption, .img-6.caption, .img-7.caption, .img-9.caption").css("opacity", "0");
-    	  	$(".img-8, .caption").css("opacity", "1");
+            $(".img-8, .cp-8").css("opacity", "1");
+            $("caption").css("opacity", "0");
         }
     });
     $(".fader, .about-fader, .sourcing-fader, .consulting-fader, .installation-fader, .portfolio-fader-99highst, .portfolio-fader-backbayhotel, .portfolio-fader-batterywharf, portfolio-fader-centralarteryairintake, .portfolio-fader-foxwoods, .portfolio-fader-harvardbusinessschool, .portfolio-fader-harvardlawschool, .portfolio-fader-marlowehotel, .portfolio-fader-mbtaashmontstation, .portfolio-fader-southstation, .portfolio-fader-summerstseawall, .portfolio-fader-tfgreenairport, .portfolio-fader-wwiimemorial, .contact-fader, .dots.nine").on("click", function(){
@@ -685,9 +677,8 @@ $(document).ready(function(){
     	  	$(".dots.nine").toggleClass('dot-active');
     	  	$(".dots.one, .two, .three, .four, .five, .six, .seven, .eight").removeClass('dot-active');
     	  	$(".image, .about-image, .sourcing-image, .installation-image, .consulting-image, .highst-image, .backbayhotel-image, .batterywharf-image, .centralarteryairintake-image, .foxwoods-image, .harvardbusinessschool-image, .harvardlawschool-image, .marlowehotel-image, .mbtaashmontstation-image, .southstation-image, .summerstseawall-image, .tfgreenairport-image, .wwiimemorial-image, .contact-image, .img-9").siblings(".img-1, .img-2, .img-3, .img-4, .img-6, .img-7, .img-8, .img-9").css("opacity", "0");
-    	  	//$(".img-9.caption").css("display", "flex");
-    	  	$(".img-1.caption, .img-2.caption, .img-3.caption, .img-4.caption, .img-5.caption, .img-6.caption, .img-7.caption, .img-8.caption").css("opacity", "0");
-    	  	$(".img-9, .caption").css("opacity", "1");
+            $(".img-9, .cp-9").css("opacity", "1");
+            $("caption").css("opacity", "0");
         }
     });
 
