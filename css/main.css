@@ -91,7 +91,7 @@ h4 {
 .main-info h1 {
   width: 90%;
   text-align: center;
-  font-size: 3.35vw;
+  font-size: 2.5vw;
   line-height: 4vw;
   font-family: "Futura-CondensedMedium", sans-serif;
   border-bottom: .0625em solid #675241;
@@ -507,8 +507,13 @@ div.image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
   height: 7%;
+=======
+  background-color: #604c3c;
+  height: 5%;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   width: 99.5%;
   bottom: 0;
   font-family: arial;
@@ -521,9 +526,13 @@ div.about-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -535,9 +544,13 @@ div.highst-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -549,9 +562,13 @@ div.backbayhotel-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -563,9 +580,13 @@ div.batterywharf-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -577,9 +598,13 @@ div.centralarteryairintake-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -591,9 +616,13 @@ div.foxwoods-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -605,9 +634,13 @@ div.harvardbusinessschool-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -619,9 +652,13 @@ div.harvardlawschool-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -633,9 +670,13 @@ div.marlowehotel-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -647,9 +688,13 @@ div.mbtaashmontstation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -661,9 +706,13 @@ div.southstation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -675,9 +724,13 @@ div.summerstseawall-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -689,9 +742,13 @@ div.tfgreenairport-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -703,9 +760,13 @@ div.wwiimemorial-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -717,9 +778,13 @@ div.contact-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
@@ -731,9 +796,13 @@ div.sourcing-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
@@ -745,9 +814,13 @@ div.installation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
@@ -759,9 +832,13 @@ div.consulting-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
+<<<<<<< HEAD
   background-color: rgba(96, 76, 60, 1.0);
+=======
+  background-color: #604c3c;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
@@ -1225,7 +1302,11 @@ button.alt-home-button {
     padding-right: 0px; }
   #alt-nav-content button p {
     margin: 0 auto;
+<<<<<<< HEAD
     font-size: 3vw; }
+=======
+    font-size: 7pt; }
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   .main-info ul {
     flex-flow: column;
     margin: 0 auto; }
@@ -1420,7 +1501,11 @@ button.alt-home-button {
 
 @media screen and (max-width: 350px) {
   nav#alt-nav div#alt-nav-content ul li button p {
+<<<<<<< HEAD
     font-size: 3vw; }
+=======
+    font-size: 2.5vw; }
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   #alt-nav-content ul li div.dropdown-content {
     left: 8em; } }
 

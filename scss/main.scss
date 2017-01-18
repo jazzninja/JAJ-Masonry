@@ -109,7 +109,7 @@ h4 {
 .main-info h1 {
   width: 90%;
   text-align: center;
-  font-size: 3.35vw;
+  font-size: 2.5vw;
   line-height: 4vw;
   font-family: "Futura-CondensedMedium", sans-serif;
   border-bottom: .0625em solid #675241;
@@ -624,9 +624,15 @@ div.image div.caption {
   position: absolute;
   overflow: hidden;
   z-index: 20;
+<<<<<<< HEAD
   color: blue;
   background-color: rgba(0,0,0,0.3);
   height: 10%;
+=======
+  color: white;
+  background-color: rgba(96, 76, 60, 1.0);
+  height: 5%;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   width: 99.5%;
   bottom: 0;
   font-family: arial;
@@ -640,9 +646,9 @@ div.about-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -655,9 +661,9 @@ div.highst-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -670,9 +676,9 @@ div.backbayhotel-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -685,9 +691,9 @@ div.batterywharf-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -700,9 +706,9 @@ div.centralarteryairintake-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -715,9 +721,9 @@ div.foxwoods-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -730,9 +736,9 @@ div.harvardbusinessschool-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -745,9 +751,9 @@ div.harvardlawschool-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -760,9 +766,9 @@ div.marlowehotel-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -775,9 +781,9 @@ div.mbtaashmontstation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -790,9 +796,9 @@ div.southstation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -805,9 +811,9 @@ div.summerstseawall-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -820,9 +826,9 @@ div.tfgreenairport-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -835,9 +841,9 @@ div.wwiimemorial-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   font-family: arial;
   font-size: 1vw;
@@ -851,9 +857,9 @@ div.contact-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
@@ -866,9 +872,9 @@ div.sourcing-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
@@ -881,9 +887,9 @@ div.installation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
@@ -896,9 +902,9 @@ div.consulting-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0,0,0,1);
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
-  width: 98.5%;
+  width: 98.75%;
   bottom: 0;
   padding: 0.5em;
   font-family: arial;
@@ -1496,7 +1502,7 @@ button.alt-home-button {
 
   #alt-nav-content button p {
     margin: 0 auto;
-    font-size: 9pt;
+    font-size: 7pt;
   }
 
   .main-info ul {
@@ -1799,7 +1805,11 @@ button.alt-home-button {
 
 @media screen and (max-width: 350px) {
 	nav#alt-nav div#alt-nav-content ul li button p {
+<<<<<<< HEAD
   		font-size: 6pt;
+=======
+  		font-size: 2.5vw;
+>>>>>>> 1c5393510d2130d646d5d1c38ba096a60beae92b
   	}
 
   	#alt-nav-content ul li div.dropdown-content {
