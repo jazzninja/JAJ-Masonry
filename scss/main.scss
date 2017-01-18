@@ -624,9 +624,9 @@ div.image div.caption {
   position: absolute;
   overflow: hidden;
   z-index: 20;
-  color: white;
+  color: blue;
   background-color: rgba(0,0,0,0.3);
-  height: 5%;
+  height: 10%;
   width: 99.5%;
   bottom: 0;
   font-family: arial;
@@ -1799,7 +1799,7 @@ button.alt-home-button {
 
 @media screen and (max-width: 350px) {
 	nav#alt-nav div#alt-nav-content ul li button p {
-  		font-size: 7pt;
+  		font-size: 6pt;
   	}
 
   	#alt-nav-content ul li div.dropdown-content {

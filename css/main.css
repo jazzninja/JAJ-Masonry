@@ -507,8 +507,8 @@ div.image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: rgba(0, 0, 0, 0.3);
-  height: 5%;
+  background-color: rgba(96, 76, 60, 1.0);
+  height: 7%;
   width: 99.5%;
   bottom: 0;
   font-family: arial;
@@ -521,7 +521,7 @@ div.about-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -535,7 +535,7 @@ div.highst-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -549,7 +549,7 @@ div.backbayhotel-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -563,7 +563,7 @@ div.batterywharf-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -577,7 +577,7 @@ div.centralarteryairintake-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -591,7 +591,7 @@ div.foxwoods-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -605,7 +605,7 @@ div.harvardbusinessschool-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -619,7 +619,7 @@ div.harvardlawschool-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -633,7 +633,7 @@ div.marlowehotel-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -647,7 +647,7 @@ div.mbtaashmontstation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -661,7 +661,7 @@ div.southstation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -675,7 +675,7 @@ div.summerstseawall-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -689,7 +689,7 @@ div.tfgreenairport-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -703,7 +703,7 @@ div.wwiimemorial-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -717,7 +717,7 @@ div.contact-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -731,7 +731,7 @@ div.sourcing-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -745,7 +745,7 @@ div.installation-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -759,7 +759,7 @@ div.consulting-image div.caption {
   overflow: hidden;
   z-index: 20;
   color: white;
-  background-color: black;
+  background-color: rgba(96, 76, 60, 1.0);
   height: 5%;
   width: 98.5%;
   bottom: 0;
@@ -1225,7 +1225,7 @@ button.alt-home-button {
     padding-right: 0px; }
   #alt-nav-content button p {
     margin: 0 auto;
-    font-size: 9pt; }
+    font-size: 3vw; }
   .main-info ul {
     flex-flow: column;
     margin: 0 auto; }
@@ -1420,7 +1420,7 @@ button.alt-home-button {
 
 @media screen and (max-width: 350px) {
   nav#alt-nav div#alt-nav-content ul li button p {
-    font-size: 7pt; }
+    font-size: 3vw; }
   #alt-nav-content ul li div.dropdown-content {
     left: 8em; } }
 
